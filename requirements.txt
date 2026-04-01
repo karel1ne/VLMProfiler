@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+pynvml
+Pillow
+evaluate
+jiwer
+accelerate
+tqdm
+scipy
